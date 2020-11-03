@@ -1,5 +1,5 @@
 ## Olá, meu nome é Adriano :blush:
-### Sou estudante de programação Front-End com React na <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="32"> [Labenu!](https://www.labenu.com.br/):heart_eyes:
+### Sou estudante de programação Front-End com React na <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> [Labenu!](https://www.labenu.com.br/):heart_eyes:
 
 
  <img src=https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif>
