@@ -5,9 +5,9 @@
  <img src=https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif>
 
 
-Atualmente, além de estudar programação 💻**Front-End** estou terminando minha graduação em 👨‍🎓**RI(Relações Internacionais)**.
-Esse perfil foi criado para que eu possa treinar algumas coisas que venho aprendendo,mas se quiser bater um papo,deixar um feedback ou talvez alguma ajuda(*embora saiba pouco seria uma honra tentar ajudar!*) sobre programação, literatura, economia,RI ou algo mais, estamos aí.
+#### Atualmente, além de estudar programação 💻**Front-End** estou terminando minha graduação em 👨‍🎓**RI(Relações Internacionais)**.
+#### Esse perfil foi criado para que eu possa treinar algumas coisas que venho aprendendo,mas se quiser bater um papo,deixar um feedback ou talvez alguma ajuda(*embora saiba pouco seria uma honra tentar ajudar!*) sobre programação, literatura, economia,RI ou algo mais, estamos aí.
 
 #### Contatos
-* [Linkedin](https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/)        
-* araujo_ir@yahoo.com
+#### * [Linkedin](https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/)        
+#### * araujo_ir@yahoo.com
