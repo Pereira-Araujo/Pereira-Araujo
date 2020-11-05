@@ -4,7 +4,7 @@
 ![](https://camo.githubusercontent.com/8fc3f0097e7b530a13120b821686a15627045f2a023ed9f71002f728f8690cb1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f66312f33622f63366631336230316135336437313532643766323335383338656665356130392e676966)
 
  Atualmente, além de estudar programação 💻**Front-End** estou terminando minha graduação em 👨‍🎓**RI(Relações Internacionais)**.
- Esse perfil foi criado para que eu possa treinar algumas coisas que venho aprendendo,mas se quiser bater um papo,deixar um feedback ou talvez pedir alguma ajuda(*embora saiba pouco seria uma honra tentar ajudar!*) sobre programação, literatura,RI ou algo mais, estamos aí.
+ Esse perfil foi criado para que eu possa treinar algumas coisas que venho aprendendo, mas se quiser bater um papo,deixar um feedback ou talvez pedir alguma ajuda(*embora saiba pouco seria uma honra tentar ajudar!*) sobre programação, literatura, RI ou algo mais, estamos aí.
 
 ![alt-text-1](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight)![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8)
 
