@@ -8,7 +8,15 @@
 #### Atualmente, além de estudar programação 💻**Front-End** estou terminando minha graduação em 👨‍🎓**RI(Relações Internacionais)**.
 #### Esse perfil foi criado para que eu possa treinar algumas coisas que venho aprendendo,mas se quiser bater um papo,deixar um feedback ou talvez alguma ajuda(*embora saiba pouco seria uma honra tentar ajudar!*) sobre programação, literatura, economia,RI ou algo mais, estamos aí.
 
-#### Contatos
-<img src="https://icons-for-free.com/iconfiles/png/512/coffee+coffee+cup+coffee+to+go+cup+starbucks+to+go+icon-1320086033473759593.png" width="52" height="44">
 
-#### <a href="https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>    <a href="mailto:araujo_ir@yahoo.com?subject=Questions&body=Write here if you have questions" title="mail" ><img src="https://user-images.githubusercontent.com/16131737/65396536-0b6e0480-dd5c-11e9-896d-c11d0bc70e84.gif" width="62" height="50"></a>
+
+#### Contatos
+
+<a href="https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
+
+
+
+<a href="mailto:araujo_ir@yahoo.com?subject=Questions&body=Write here if you have questions" title="mail" target="_blank">
+ <img src="https://icons-for-free.com/iconfiles/png/512/coffee+coffee+cup+coffee+to+go+cup+starbucks+to+go+icon-1320086033473759593.png" width="52" height="44">
+</a>
