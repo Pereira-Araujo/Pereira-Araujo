@@ -16,11 +16,13 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8" height="194">
 
 
 
