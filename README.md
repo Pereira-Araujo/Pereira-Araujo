@@ -11,9 +11,14 @@
  <li>Esse perfil foi criado para que eu possa treinar algumas coisas que venho aprendendo</li>
  <li>Se quiser bater um papo,deixar um feedback ou talvez pedir alguma ajuda (<i>embora saiba pouco seria uma honra tentar ajudar!</i>) sobre programação, literatura, RI ou algo mais, estamos aí.</li>
 </ul>
+<br>
+<br>
+<br>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight)![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8)
+
+
+![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8)
 
 
 
