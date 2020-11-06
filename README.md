@@ -12,6 +12,9 @@
  <li>Se quiser bater um papo,deixar um feedback ou talvez pedir alguma ajuda (<i>embora saiba pouco seria uma honra tentar ajudar!</i>) sobre programação, literatura, RI ou algo mais, estamos aí.</li>
 </ul>
 <p></p>
+<p></p>
+<p></p>
+
 
 
 
