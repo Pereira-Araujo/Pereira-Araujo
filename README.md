@@ -5,7 +5,7 @@
 </a> <a href="https://api.whatsapp.com/send?phone=5521976925686"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 
-<img align="right" src="https://tafner.net.br/images/software/moss-fire.gif" height="320">
+<img align="right" src="https://i1.wp.com/tellymix.co.uk/wp-content/uploads/2016/10/bake-off-fire-RICHARD-AYOADE.jpg?fit=1280%2C720&ssl=1" height="320">
 
 
 
