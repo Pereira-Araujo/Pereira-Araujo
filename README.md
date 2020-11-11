@@ -22,9 +22,6 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight) 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8)](https://github.com/Pereira-Araujo/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight) [![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8)](https://github.com/Pereira-Araujo/github-readme-stats)
 
 
