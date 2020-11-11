@@ -1,11 +1,12 @@
 ## Olá, meu nome é Adriano :blush:
 
+
 <a href="https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/" title="Linkedin" target="_blank"> <img src="https://img.shields.io/badge/Araujo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" > </a> <a href="mailto:araujo_ir@yahoo.com?subject=Questions&body=Write here if you have questions" title="Email" target="_blank">
  <img src="https://img.shields.io/badge/Araujo-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
 </a> <a href="https://api.whatsapp.com/send?phone=5521976925686"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 
-<img align="right" src="https://i1.wp.com/tellymix.co.uk/wp-content/uploads/2016/10/bake-off-fire-RICHARD-AYOADE.jpg?fit=1280%2C720&ssl=1" width="520" height="320">
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRHGw8pIc1O7pEv5AoIvZ-_comFpwF6TEl7g&usqp=CAU">
 
 
 
@@ -25,7 +26,7 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight" >
 <br>
-<a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo"></a>
+<a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight"></a>
 
 
 
