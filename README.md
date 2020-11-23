@@ -1,9 +1,11 @@
 ## Olá, meu nome é Adriano :blush:
 
 
-<a href="https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/" title="Linkedin" target="_blank"> <img src="https://img.shields.io/badge/Araujo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" > </a> <a href="mailto:araujo_ir@yahoo.com?subject=Questions&body=Write here if you have questions" title="Email" target="_blank">
- <img src="https://img.shields.io/badge/Araujo-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
-</a> <a href="https://api.whatsapp.com/send?phone=5521976925686"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/" title="Linkedin" target="_blank"> <img src="https://64.media.tumblr.com/482803d41ac72337df99a6292b297f80/a4155e539c03dfb6-8b/s75x75_c1/1919ccf70f6db5955fc0d14f121b0a31be32753f.png" width="50" margin="10%"> </a><a href="https://codepen.io/araujo6_6"><img src="https://img.icons8.com/windows/452/codepen.png" width="60"></a><a href="https://api.whatsapp.com/send?phone=5521976925686"><img src="https://64.media.tumblr.com/62a64c39ed08b930dd42eff17f966ee3/aa35a7c092dab470-57/s75x75_c1/e1256f2342006b0ec73fafed010ad1c17b030caf.png" width="50"></a>
+
+
+
+
 
 
 <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159">
