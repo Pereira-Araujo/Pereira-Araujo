@@ -1,8 +1,8 @@
 # Olá, meu nome é Adriano :blush:
 
-<a href="" margin="10"><img src="https://cdn2.iconfinder.com/data/icons/linkedin-ui/48/jee-91-512.png" width="80"></a>
-<a href=""><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="60"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="60"></a>
+<a href="" margin="10"><img src="https://64.media.tumblr.com/482803d41ac72337df99a6292b297f80/a4155e539c03dfb6-8b/s75x75_c1/1919ccf70f6db5955fc0d14f121b0a31be32753f.png" width="60"></a>
+<a href="" margin="10"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="60"></a>
+<a href="" margin="10"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="60"></a>
 
 
 <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159">
