@@ -1,11 +1,8 @@
-## Olá, meu nome é Adriano :blush:
+# Olá, meu nome é Adriano :blush:
 
-
-<a href="https://www.linkedin.com/in/adriano-p-de-araujo-0776ab19b/" title="Linkedin" target="_blank"> <img src="https://64.media.tumblr.com/482803d41ac72337df99a6292b297f80/a4155e539c03dfb6-8b/s75x75_c1/1919ccf70f6db5955fc0d14f121b0a31be32753f.png" width="50" margin="10%"> </a><a href="https://codepen.io/araujo6_6"><img src="https://img.icons8.com/windows/452/codepen.png" width="60"></a><a href="https://api.whatsapp.com/send?phone=5521976925686"><img src="https://64.media.tumblr.com/62a64c39ed08b930dd42eff17f966ee3/aa35a7c092dab470-57/s75x75_c1/e1256f2342006b0ec73fafed010ad1c17b030caf.png" width="50"></a>
-
-
-
-
+<a href="" margin="10"><img src="https://cdn2.iconfinder.com/data/icons/linkedin-ui/48/jee-91-512.png" width="80"></a>
+<a href=""><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="60"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="60"></a>
 
 
 <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159">
