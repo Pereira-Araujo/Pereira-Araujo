@@ -25,9 +25,18 @@
 <br>
 <br>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight" >
 <br>
+
 <a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight"></a>
 
+
+
+<details>
+
+<summary>✨ Github Stats</summary>
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight" >
+
+</details>
 
 
