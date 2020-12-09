@@ -10,7 +10,6 @@
 <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159">
 
 
-
 ### Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> 
 
 <details>
@@ -28,13 +27,11 @@
 
 <br>
 <br>
-<br>
-<br>
 
 
+#### Linguages Mais Usadas 👇
 
 <a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight"></a>
-
 
 
 <details>
