@@ -13,6 +13,10 @@
 
 ### Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> 
 
+<details>
+
+<summary>👈 Mais um pouco sobre mim 👇</summary>
+
 <div align="left">
 <ul>
  <li>Atualmente, além de estudar programação 💻<b>Front-End</b> estou terminando minha graduação em 👨‍🎓<b>RI(Relações Internacionais)</b>.</li>
@@ -20,12 +24,14 @@
  <li>Se quiser bater um papo,deixar um feedback ou talvez pedir alguma ajuda (<i>embora saiba pouco seria uma honra tentar ajudar!</i>) sobre programação, literatura, RI ou algo mais, estamos aí.</li>
 </ul>
 </div>
+</details>
+
 <br>
 <br>
 <br>
 <br>
 
-<br>
+
 
 <a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight"></a>
 
@@ -33,7 +39,7 @@
 
 <details>
 
-<summary>✨ Github Stats</summary>
+<summary>👈 Github Stats 👇</summary>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight" >
 
