@@ -20,18 +20,14 @@
 </ul>
 </div>
 </details>
-
-<br>
-<br>
-
-
-<br>
 <table>
 <tr>
   <td colspan="2">
       <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://github.com/github/explore/blob/master/topics/html/html.png" />
       <img align="left" style="padding-right: 12px" alt="CSS" width="32px" src="https://github.com/github/explore/blob/master/topics/css/css.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
+       <img align="left" style="padding-right: 12px" alt="barwidth="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
+
 
   </td>
 </tr>
