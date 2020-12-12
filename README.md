@@ -23,8 +23,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight">
-        <img align="left" src="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight" />
+           <a href="https://github.com/Pereira-Araujo/github-readme-stats"><a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight">
       </a>
     </td>
   </tr>
