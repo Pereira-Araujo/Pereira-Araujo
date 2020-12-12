@@ -48,7 +48,6 @@
   </tr>
 </table>
 
-<img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159">
 
 
 
