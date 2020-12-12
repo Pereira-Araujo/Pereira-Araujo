@@ -6,6 +6,29 @@
 <a href="https://codepen.io/araujo6_6"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="30"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://repl.it/@Araujocoding"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="40"></a>
 
+<br>
+<table>
+<tr>
+  <td colspan="2">
+      <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://github.com/github/explore/blob/master/topics/html/html.png" />
+      <img align="left" style="padding-right: 12px" alt="CSS" width="32px" src="https://github.com/github/explore/blob/master/topics/css/css.png" />
+      <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
+
+  </td>
+</tr>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight">
+        <img align="left" src="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159">
 
@@ -29,17 +52,5 @@
 <br>
 
 
-#### Linguages Mais Usadas 👇
-
-<a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight"></a>
-
-
-<details>
-
-<summary>👈 Github Stats 👇</summary>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight" >
-
-</details>
 
 
