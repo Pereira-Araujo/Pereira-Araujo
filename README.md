@@ -25,10 +25,9 @@
       <img align="left" style="padding-right: 12px" alt="HTML" width="34px" src="https://github.com/github/explore/blob/master/topics/html/html.png" />
       <img align="left" style="padding-right: 12px" alt="CSS" width="34px" src="https://github.com/github/explore/blob/master/topics/css/css.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="34px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
-       <img align="left" style="padding-right: 12px" alt="JavaScript" width="80px"  src="https://i.dlpng.com/static/png/6649523_preview.png" />
-
-
-
+      <img align="left" style="padding-right: 12px" alt="JavaScript" width="34px" src="https://github.com/github/explore/blob/master/topics/react/react.png"/>
+      <img align="left" alt="JavaScript" width="80px"  src="https://i.dlpng.com/static/png/6649523_preview.png" />
+      
   </td>
 </tr>
   <tr>
