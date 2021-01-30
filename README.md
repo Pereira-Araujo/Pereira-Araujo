@@ -19,6 +19,8 @@
 </ul>
 </div>
 </details>
+
+<hr>
 <table>
 <tr>
   <td colspan="2">
