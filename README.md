@@ -7,7 +7,6 @@
 
 ### Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> 
 
-<details>
 
 <hr>
 <table>
