@@ -16,8 +16,7 @@
 <hr>      
     
 [![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight)
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=tokyonight)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=compact&count_private=true&theme=tokyonight)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pereira-Araujo&hide_border=true&theme=tokyonight)
 
