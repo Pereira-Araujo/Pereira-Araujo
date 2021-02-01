@@ -5,33 +5,17 @@
 <a href="https://codepen.io/araujo6_6"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="30"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://repl.it/@Araujocoding"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="40"></a>
 
-### Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> 
+#### Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> 
 
 
 <hr>
-<table>
-<tr>
-  <td colspan="2">
-      <img align="left" style="padding-right: 12px" alt="HTML" width="34px" src="https://github.com/github/explore/blob/master/topics/html/html.png" />
+
+ <img align="left" style="padding-right: 12px" alt="HTML" width="34px" src="https://github.com/github/explore/blob/master/topics/html/html.png" />
       <img align="left" style="padding-right: 12px" alt="CSS" width="34px" src="https://github.com/github/explore/blob/master/topics/css/css.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="34px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="34px" src="https://github.com/github/explore/blob/master/topics/react/react.png"/>
       <img align="left" alt="JavaScript" width="80px"  src="https://i.dlpng.com/static/png/6649523_preview.png" />
-      
-  </td>
-</tr>
-  <tr>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-           <a href="https://github.com/Pereira-Araujo/github-readme-stats"><a href="https://github.com/Pereira-Araujo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 
