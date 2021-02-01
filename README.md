@@ -7,14 +7,22 @@
 
 #### Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> 
 
-
 <hr>
 <img align="left" style="padding-right: 12px" alt="HTML" width="34px" src="https://github.com/github/explore/blob/master/topics/html/html.png" />
       <img align="left" style="padding-right: 12px" alt="CSS" width="34px" src="https://github.com/github/explore/blob/master/topics/css/css.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="34px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="34px" src="https://github.com/github/explore/blob/master/topics/react/react.png"/>
-      <img align="left" alt="JavaScript" width="80px"  src="https://i.dlpng.com/static/png/6649523_preview.png" />
+<img  alt="JavaScript" width="80px"  src="https://i.dlpng.com/static/png/6649523_preview.png" />
 <hr>      
+    
+    <a href="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=tokyonight"/>
+
+ 
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=compact&count_private=true&theme=tokyonight)
+ ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pereira-Araujo&hide_border=true&theme=tokyonight)
+
 
 
 
