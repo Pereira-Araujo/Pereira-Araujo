@@ -5,7 +5,7 @@
 <a href="https://codepen.io/araujo6_6"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="30"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://repl.it/@Araujocoding"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="40"></a>
 
-**Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> 
+### Sou estudante de programação Front-End com React na [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28">*
    
     
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=tokyonight)
