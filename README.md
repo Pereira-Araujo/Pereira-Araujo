@@ -6,7 +6,9 @@
 
 
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=nightowl ) [![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=nightowl ) 
+
+[![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
 
 
 
