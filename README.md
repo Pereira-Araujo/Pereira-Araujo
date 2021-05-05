@@ -9,10 +9,9 @@
  - [Chat](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/whats-lab)
  - [OtherSide Store](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_Vanilla/OtherSide_Store)
  
-<details>
-<summary><h4>Projeto em grupo</h4></summary>
- <a href'https://github.com/future4code/muyembe-pokedex7'><strong>Pokedex</strong></a> - Fui responsável pela parte pela criação do estado global e renderização da tela inicial
- </details>
+#### Projeto em grupo
+ - [Pokedex](https://github.com/future4code/muyembe-pokedex7) - Fui responsável pela parte pela criação do estado global e renderização da tela inicial
+ 
 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=nightowl ) 
