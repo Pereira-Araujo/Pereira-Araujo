@@ -8,9 +8,8 @@
  - [Astromach](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/AstroMach)
  - [Chat](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/whats-lab)
  - [OtherSide Store](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_Vanilla/OtherSide_Store)
- 
-#### Projeto em grupo
- - [Pokedex](https://github.com/future4code/muyembe-pokedex7) - Fui responsável pela parte pela criação do estado global e renderização da tela inicial
+ - Projeto em grupo :
+    - [Pokedex](https://github.com/future4code/muyembe-pokedex7) - Fui responsável pela criação do **estado global** e **renderização da tela inicial**
  
 
 
