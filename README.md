@@ -11,7 +11,7 @@
  - Projeto em grupo :
     - [Pokedex](https://github.com/future4code/muyembe-pokedex7) - Fui responsável pela criação do **estado global** e **renderização da tela inicial**
  
- **Mais projetos podem ser acessados aqui => [aqui](https://github.com/Pereira-Araujo/Projetos)**
+ **Mais projetos podem ser acessados aqui => [AQUI](https://github.com/Pereira-Araujo/Projetos)**
  
 
 
