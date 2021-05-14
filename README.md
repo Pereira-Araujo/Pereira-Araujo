@@ -6,6 +6,7 @@
 ### Alguns projetinhos:
 
  - [Astromach](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/AstroMach)
+ - [Chuck-Jokes](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/Chuck_Jokes)
  - [Chat](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/whats-lab)
  - [OtherSide Store](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_Vanilla/OtherSide_Store)
  - Projeto em grupo :
