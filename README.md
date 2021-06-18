@@ -3,6 +3,10 @@
  &nbsp; &nbsp; &nbsp;
 <a href="https://codepen.io/araujo6_6"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="30"></a> &nbsp; &nbsp; &nbsp;
 
+### Site:
+
+:heart: [dev-araujo](https://dev-araujo.com.br/)
+
 ### Alguns projetinhos:
 
  - [Astromach](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/AstroMach)
@@ -19,9 +23,6 @@
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=nightowl ) 
 
 [![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
-
-
-
 
 
 
