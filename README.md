@@ -21,7 +21,6 @@
   - [Estudos de 10/20 à 10/21](https://github.com/Pereira-Araujo/Estudos)
  
  
- **Mais projetos podem ser acessados aqui => [AQUI](https://github.com/Pereira-Araujo/Projetos)**
  
 
 
