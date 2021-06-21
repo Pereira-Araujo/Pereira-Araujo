@@ -11,7 +11,7 @@
 
  - [Astromach](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/AstroMach)
  - [Chuck-Jokes](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/Chuck_Jokes)
- - [Desafio Paytime](https://github.com/Pereira-Araujo/Desafio_Paytime)
+ - [Desafio Paytime](https://github.com/Pereira-Araujo/desafios/tree/main/desafio_paytime)
  - [OtherSide Store](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_Vanilla/OtherSide_Store)
  - Projeto em grupo :
     - [Pokedex](https://github.com/future4code/muyembe-pokedex7) - Fui responsável pela criação do **estado global** e **renderização da tela inicial**
