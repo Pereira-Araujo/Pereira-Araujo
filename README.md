@@ -16,8 +16,8 @@
  
  ### Repositórios importantes:
  
-  - [Projetos de 10/20 à 10/21](https://github.com/Pereira-Araujo/Projetos)
-  - [Desafios e testes](https://github.com/Pereira-Araujo/desafios)
+  - [**Projetos de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
+  - [**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
   - [Estudos de 10/20 à 10/21](https://github.com/Pereira-Araujo/Estudos)
  
  
