@@ -13,13 +13,14 @@
  - [Desafio BRLOGIC](https://github.com/Pereira-Araujo/desafios/blob/main/desafio_brlogic)
  - [Astromach](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/AstroMach)
  - [Chuck-Jokes](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/Chuck_Jokes)
- - [OtherSide Store](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_Vanilla/OtherSide_Store)
  
  ### Repositórios importantes:
  
-  - [**Projetos de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
-  - [**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
-  - [Estudos de 10/20 à 10/21](https://github.com/Pereira-Araujo/Estudos)
+  :icecream: [**Projetos Pessoais de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
+  
+  :muscle:[**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
+  
+ :pencil: [**Estudos de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Estudos)
  
  
  
