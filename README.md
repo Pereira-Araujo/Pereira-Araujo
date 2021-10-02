@@ -16,22 +16,29 @@
  
  ### Repositórios importantes:
  
-  :icecream: [**Projetos Pessoais de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
-  
-  :muscle:[**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
-  
- :pencil: [**Estudos de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Estudos)
+ #### Desafios e testes :muscle:
+ 
+ - [**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
  
  
+#### Projetos :icecream:
+ 
+  - [**Projetos Pessoais de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
+  - [**Projetos Pessoais de 10/21 à 10/22**](https://github.com/Pereira-Araujo/Projetos_2) 
+ 
+ #### Estudos :pencil:
+ 
+ - [**Estudos de 10/21 à 10/22**](https://github.com/Pereira-Araujo/Estudos_2)
+ - [**Estudos de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Estudos)
  
 
+  
+  
+ 
+ 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=nightowl ) 
 
 [![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
-
-
-
-
 
 
