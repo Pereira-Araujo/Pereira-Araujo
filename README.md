@@ -1,7 +1,7 @@
-# Adriano P. Araujo - [Dev. Front-End] :blush: 
- <a href="https://www.linkedin.com/in/araujocode/"><img src="https://64.media.tumblr.com/482803d41ac72337df99a6292b297f80/a4155e539c03dfb6-8b/s75x75_c1/1919ccf70f6db5955fc0d14f121b0a31be32753f.png" width="30"></a>
- &nbsp; &nbsp; &nbsp;
-<a href="https://codepen.io/araujo6_6"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111351.svg" width="30"></a> &nbsp; &nbsp; &nbsp;
+# Adriano P. Araujo - [Dev. Front-End] <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujocode/)
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/araujo6_6)
 
 ### Site:
 
