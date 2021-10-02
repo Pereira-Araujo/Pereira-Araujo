@@ -22,9 +22,9 @@
  
  
 #### Projetos :icecream:
- 
-  - [**Projetos Pessoais de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
+
   - [**Projetos Pessoais de 10/21 à 10/22**](https://github.com/Pereira-Araujo/Projetos_2) 
+  - [**Projetos Pessoais de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
  
  #### Estudos :pencil:
  
