@@ -5,10 +5,10 @@
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/araujo6_6)
 [![English](https://img.shields.io/badge/English--version-4040ff?style=for-the-badge)](https://github.com/Pereira-Araujo/Pereira-Araujo/blob/main/README-2.md)
 
+### PORTFÓLIO :point_down::
 
-### Site:
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dev-araujo.com.br/)
 
-💻:heart:  [**dev-araujo**](https://dev-araujo.com.br/)
 
 ### Alguns projetinhos:
 
@@ -17,28 +17,12 @@
  - [Astromach](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/AstroMach)
  - [Chuck-Jokes](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/Chuck_Jokes)
  
- ### Repositórios importantes:
  
  #### Desafios e testes :muscle:
  
  - [**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
  
- 
-#### Projetos :icecream:
 
-  - [**Projetos Pessoais de 10/21 à 10/22**](https://github.com/Pereira-Araujo/Projetos_2) 
-  - [**Projetos Pessoais de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Projetos)
- 
- #### Estudos :pencil:
- 
- - [**Estudos de 10/21 à 10/22**](https://github.com/Pereira-Araujo/Estudos_2)
- - [**Estudos de 10/20 à 10/21**](https://github.com/Pereira-Araujo/Estudos)
- 
-
-  
-  
- 
- 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=nightowl ) 
 
