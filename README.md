@@ -23,8 +23,7 @@
  - [**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
  
 
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&layout=count_private=true&theme=nightowl ) 
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8&theme=nightowl)](https://github.com/Pereira-Araujo/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
 
