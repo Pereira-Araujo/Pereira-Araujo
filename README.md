@@ -15,7 +15,7 @@
  - [Vizir](https://github.com/Pereira-Araujo/desafios/tree/main/testes_tecnicos/desafio_vizir)
  - [Desafio BRLOGIC](https://github.com/Pereira-Araujo/desafios/blob/main/testes_tecnicos/desafio_brlogic)
  - [Astromach](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/AstroMach)
- - [Chuck-Jokes](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/Chuck_Jokes) (em construção...)
+ - [Chuck-Jokes](https://github.com/Pereira-Araujo/Projetos/tree/main/Projetos_React/Chuck_Jokes) 
  
  
  #### Desafios e testes :muscle:
