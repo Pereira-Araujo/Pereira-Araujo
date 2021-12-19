@@ -27,6 +27,6 @@
 
 <a href="https://profile.codersrank.io/user/pereira-araujo/">
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Pereira-Araujo&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Pereira-Araujo&width=820&show-other-skills=true"
 />
 </a>
