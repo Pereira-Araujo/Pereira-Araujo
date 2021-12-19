@@ -1,6 +1,7 @@
 # Adriano P. Araujo - [Dev. Front-End] <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 
 
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujocode/)
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/araujo6_6)
 [![English](https://img.shields.io/badge/English--version-4040ff?style=for-the-badge)](https://github.com/Pereira-Araujo/Pereira-Araujo/blob/main/README-2.md)
@@ -22,8 +23,10 @@
  - [**Desafios e testes**](https://github.com/Pereira-Araujo/desafios)
  
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8&theme=nightowl)](https://github.com/Pereira-Araujo/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8&theme=nightowl)](https://github.com/Pereira-Araujo/github-readme-stats) [![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
 
-[![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Pereira-Araujo&width=820"
+/>
 
