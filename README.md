@@ -25,8 +25,3 @@
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Araujo&langs_count=8&theme=nightowl)](https://github.com/Pereira-Araujo/github-readme-stats) [![](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=Pereira-Araujo&show_icons=true&theme=nightowl )
 
-<a href="https://profile.codersrank.io/user/pereira-araujo/">
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Pereira-Araujo&width=820&show-other-skills=true"
-/>
-</a>
