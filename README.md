@@ -4,6 +4,6 @@
 
 ###  ⚠️ Atenção
 
-Perfil abandonado, migrei para para:  **https://github.com/dev-araujo**
+**Perfil abandonado, migrei para para:  https://github.com/dev-araujo**
 
 ![Parti](https://data.whicdn.com/images/309541248/original.gif)
